@@ -1,0 +1,29 @@
+[33mcommit 9110fc6d525b1a911a8229ddce4fa3f040d8dc44[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: koclena <koc-lena@mail.ru>
+Date:   Tue Jan 10 21:21:33 2023 +0300
+
+    A file has been removed
+
+[33mcommit e101794538732fdce84b29a566a763ebc3b90fd0[m
+Author: koclena <koc-lena@mail.ru>
+Date:   Tue Jan 10 20:57:33 2023 +0300
+
+    A new file is added
+
+[33mcommit 648cf872df63f6219f533f19fe3250dc6cc0ae95[m
+Author: koclena <koc-lena@mail.ru>
+Date:   Tue Jan 10 20:39:32 2023 +0300
+
+    A new file is added
+
+[33mcommit 402b5a8264fff8b6a1bbfabdd6edd597abd0ca2e[m
+Author: koclena <koc-lena@mail.ru>
+Date:   Tue Jan 10 20:28:12 2023 +0300
+
+    A new file is added
+
+[33mcommit b771f09ea18f842e14c1f055aa853ac754fe9df3[m
+Author: koclena <98810718+koclena@users.noreply.github.com>
+Date:   Mon Jan 9 23:36:24 2023 +0300
+
+    Initial commit
